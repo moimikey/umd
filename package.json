@@ -28,6 +28,6 @@
     "jshint": "^2.8.0"
   },
   "dependencies": {
-    "jquery": "^2.1.4"
+    "jquery": "^3.5.0"
   }
 }
